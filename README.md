@@ -15,8 +15,5 @@
 <h3 align="center">easy4tech app Android</h3>
 
 
-https://github.com/lcfrateschi/easy4tech/assets/47075313/8c64c197-38d5-4135-aa63-6a8037a666a9
-
-
-
+https://github.com/lcfrateschi/easy4tech/assets/47075313/143e9aa0-6789-46b0-818b-986fb5f8ea96
 
