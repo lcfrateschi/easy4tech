@@ -12,7 +12,7 @@
     <img src="logo.jpg" alt="Logo" width="150" height="150">
   </a>
 
-<h2 align="center">Easy4Tech Apps Android</h2>
+<h2 align="center">Easy4Tech App Android</h2>
 <h2 align="center">Demo App em produção offline (internal network) pré/pós pago</h2>
 
 
